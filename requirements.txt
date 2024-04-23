@@ -1,0 +1,6 @@
+streamlit
+PyMuPDF
+numpy
+pillow
+torch
+transformers
